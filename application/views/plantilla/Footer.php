@@ -1,6 +1,6 @@
 <div class="panel text-center" style="margin-top: 470px;">
     <footer>
-        <b>Sistema de visualizacion de patentes</b>
+        <b>Sistema de visualizacion de informacion</b>
         <p class="footer-company-name">Universidad de Playa Ancha &copy; 2017</p>
         <div>
             <a href="https://goo.gl/phWC7k" target="_blank"> <i class="fa fa-map-marker"></i></a>
