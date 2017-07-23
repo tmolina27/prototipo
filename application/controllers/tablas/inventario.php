@@ -2,7 +2,7 @@
 
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
-class Actos extends CI_Controller {
+class Inventario extends CI_Controller {
 
     function __construct() {
         parent::__construct();
@@ -25,7 +25,7 @@ class Actos extends CI_Controller {
 
     public function patentes() {
         $crud = new grocery_CRUD();
-        $crud->set_table('salida');
+        $crud->set_table('inventario');
         $output = $crud->render();
         $this->genera_respuesta($output);
     }

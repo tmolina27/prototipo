@@ -20,6 +20,7 @@
                 <li><a href="<?php echo base_url("tablas/bomberos")?>" ><b>bomberos</b></a></li>
                 <li><a href="<?php echo base_url("tablas/actos")?>" ><b>actos</b></a></li>
                 <li><a href="<?php echo base_url("tablas/salidas")?>" ><b>salidas</b></a></li>
+                <li><a href="<?php echo base_url("tablas/inventario")?>" ><b>inventario</b></a></li>
                 
             
                 <?php 
